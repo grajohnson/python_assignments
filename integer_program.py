@@ -43,7 +43,7 @@ while True:
     flag_list.pop()
 
     #Print appropriate statement
-    if all_same(flag_list):
+    if all_same(flag_list) and flag_list != []:
         if flag_list[0] == 1:
             print "--> Your integer is increasing.\n"
         elif flag_list[0] == 2:
