@@ -1,5 +1,4 @@
 # python_assignments
-This repository serves as a place to store my Python assignments.
 
 ### Assignment 1 ###
 
